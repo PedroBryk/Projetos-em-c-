@@ -16,13 +16,13 @@ int main(){
     double valor_total = (valor_limpeza+valor_imposto_pago);
 
     cout<<"Orcamento para servico de limpeza de carpetes:"<<endl;
-    cout<<"Numero de quartos: "<<quartos;
-    cout<<"Preco por quarto: "<<valor;
-    cout<<"Custo: "<<valor_limpeza;
+    cout<<"Numero de quartos: "<<quartos<<endl;
+    cout<<"Preco por quarto: "<<valor<<endl;
+    cout<<"Custo: "<<valor_limpeza<<endl;
     cout<<"Imposto: "<<valor_imposto_pago<<endl;
     cout<<"==========================================="<<endl;
     cout<<"Orcamento total: R$ "<<valor_total<<endl;
-    cout<<"Orcamento valido por "<<tempo;
+    cout<<"Orcamento valido por "<<tempo<<" dias"<<endl;
 
     return 0;
 }
