@@ -2,8 +2,6 @@
 using namespace std;
 
 int main(){
-
-    
     
     double valor_real;
 
