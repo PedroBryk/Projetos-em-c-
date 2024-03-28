@@ -8,7 +8,7 @@ int main(){
     cout<<"Digite sua idade: ";
     cin>>idade;
 
-    if(idade >= 16){
+    if(idade >= 18){
 
         cout<<"Voce esta apto a dirigir";
 
