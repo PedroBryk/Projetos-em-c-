@@ -20,9 +20,13 @@ int main() {
             letra_grande = 'B';
 
         }else if(nota>70){
+            
             letra_grande = 'C';
+
         }else if(nota>60){
+
             letra_grande = 'D';
+
         }else {
 
             letra_grande = 'E';
