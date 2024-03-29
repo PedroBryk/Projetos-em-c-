@@ -30,4 +30,6 @@ int main(){
     }else{
         cout<<"Ta doido que semana eh essa com "<<dia_semana<<" dias!";
     }
+
+    return 0;
 }

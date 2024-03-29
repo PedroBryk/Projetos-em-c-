@@ -21,4 +21,6 @@ int main(){
         cout<<"O numero digitado eh um valor positivo!";
 
     }
+
+    return 0;
 }

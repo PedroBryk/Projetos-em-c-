@@ -12,4 +12,6 @@ int main(){
     int idade = ano_atual-ano_nascimento;
 
     cout<<"Sua idade eh: "<<idade<<" anos";
+
+    return 0;
 }

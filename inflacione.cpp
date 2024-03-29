@@ -22,5 +22,6 @@ int main(){
         cout<<"O valor inflacionado eh: "<<valor_total;
     }
     
+    return 0;
     
 }

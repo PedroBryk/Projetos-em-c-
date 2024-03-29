@@ -13,4 +13,5 @@ using namespace std;
     fora_limites = (valor >= 5)&&(valor <=50);
     cout<<valor<<" esta entre 5 e 50? "<<fora_limites;
 
+   return 0;
  }
