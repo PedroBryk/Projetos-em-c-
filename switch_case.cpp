@@ -40,7 +40,25 @@ int main(){
     case 'e':
     case 'E':
 
-    cout<<"Infelizmente voce reprovou!:"<<endl;
+    char confirma;
+
+    cout<<"Voce tem certeza (s) sim ou (n)nao"<<endl;
+    cin>>confirma;
+
+    if (confirma == 'S' || confirma == 's')
+    {
+
+         cout<<"Infelizmente voce reprovou!"<<endl;
+
+    }else if(confirma == 'N' || confirma == 'n'){
+
+         cout<<"Bora estudar!"<<endl;
+
+    }else{
+
+        cout<<"opcao invalida"<<endl;
+
+    }
 
         break;
 
